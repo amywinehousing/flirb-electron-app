@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-pacman -S nodejs npm
 mkdir /usr/bin/flirbnet
 mkdir /usr/bin/flirbnet/assets
 mv package.json /usr/bin/flirbnet
