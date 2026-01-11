@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1337.0
+Type=Application
+Name=flirb.net
+Comment=gay furry dragons
+Exec=/usr/bin/flirbnet/launch.sh
+Icon=/usr/bin/flirbnet/assets/icon.png
+Terminal=false
+Categories=Utility;
