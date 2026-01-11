@@ -12,4 +12,5 @@ chmod +x launch.sh
 chmod +x install2.sh
 mv launch.sh /usr/bin/flirbnet
 mv install2.sh /usr/bin/flirbnet
+cd /usr/bin/flirbnet
 ./install2.sh
