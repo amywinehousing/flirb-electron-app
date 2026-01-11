@@ -1,5 +1,10 @@
 # flirb-electron-app
 *USAGE:*
+*DEPENDENCIES:*
+```
+nodejs
+npm
+```
 *AUTOMATIC:*
 ```
 Just clone the source, then cd into the source folder, run chmod +x ./install.sh and then run sudo ./install.sh.
