@@ -2,7 +2,10 @@
 *USAGE:*
 *AUTOMATIC:*
 ```
-Download the dependencies: npm, nodejs; Then just clone the source, then cd into the source folder, run chmod +x ./install.sh and then run sudo ./install.sh.
+Install the following dependencies: npm, nodejs
+Clone the source.
+Go into the source folder and run: chmod +x install.sh
+Then run: sudo ./install.sh
 ```
 *MANUAL:*
 **Download the source.**
