@@ -1,5 +1,6 @@
 # flirb-electron-app
 *USAGE:*
+
 *AUTOMATIC:*
 ```
 Install the following dependencies: npm, nodejs
