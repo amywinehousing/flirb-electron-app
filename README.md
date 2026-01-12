@@ -19,9 +19,4 @@ sudo pacman -S nodejs npm
 npm install electron
 npm start
 ```
-**To use with rofi/dmenu or any other launcher create a .desktop file**
-***TODO***
-```
-1. Proper install script
-```
 ***TESTED ON ARCH LINUX WITH i3WM.***
